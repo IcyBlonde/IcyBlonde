@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IcyBlonde
+- 👋 Hi, I’m @IcyBlonde/Austin
 - 👀 I’m interested in working in software enginnering (especially for disabilities)
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on any fun projects that will help me expand my skills
